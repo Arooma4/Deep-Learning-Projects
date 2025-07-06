@@ -1,8 +1,7 @@
-# 📚 NLP Projects: Sentiment Analysis & Prompt Text Generator
+# 📚 NLP Projects: Sentiment Analysis 
 
 This repository contains two natural language processing projects:
-1. 🎭 Sentiment Analysis using RNN on IMDB reviews  
-2. ✍️ Prompt Text Generator using GPT-2
+🎭 Sentiment Analysis using RNN on IMDB reviews  
 
 ---
 
